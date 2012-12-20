@@ -1,0 +1,6 @@
+[submodule "io-core"]
+	path = io-core
+	url = git@github.com:janrain/io-core.git
+[submodule "io-container"]
+	path = io-container
+	url = git@github.com:janrain/io.git
